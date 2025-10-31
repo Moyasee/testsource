@@ -4,7 +4,6 @@
     {
             "title": "Dispatch - Portable",
             "uris": [
- "magnet:?xt=urn:btih:274a35c18ffa3de70131574c2406079bb2ab50fb&dn=rutor.info_Dispatch+-+Digital+Deluxe+Edition+%5Bv+1.0.15103+%2B+DLC%5D+%282025%29+PC+%7C+Portable&tr=udp://opentor.net:6969&tr=http://retracker.local/announce"
              ],
             "fileSize": "5.17GB",
             "uploadDate": "2025-10-30T00:14:00.000Z"
@@ -12,7 +11,6 @@
     {
             "title": "CarX Drift Racing Online (+COOP)",
             "uris": [
- "magnet:?xt=urn:btih:274a35c18ffa3de70131574c2406079bb2ab50fb&dn=rutor.info_Dispatch+-+Digital+Deluxe+Edition+%5Bv+1.0.15103+%2B+DLC%5D+%282025%29+PC+%7C+Portable&tr=udp://opentor.net:6969&tr=http://retracker.local/announce"
              ],
             "fileSize": "9.4GB",
             "uploadDate": "2025-10-30T00:19:00.000Z"
@@ -20,7 +18,6 @@
     {
             "title": "Dispatch - Portable Deluxe Edition",
             "uris": [
- "magnet:?xt=urn:btih:274a35c18ffa3de70131574c2406b2ab50fb&dn=rutor.info_Dispatch+-+Digital+Deluxe+Edition+%5Bv+1.0.15103+%2B+DLC%5D+%282025%29+PC+%7C+Portable&tr=udp://opentor.net:6969&tr=http://retracker.local/announce"
              ],
             "fileSize": "5.42GB",
             "uploadDate": "2025-10-30T00:19:00.000Z"
@@ -28,9 +25,15 @@
     {
             "title": "CarX Drift Racing Online (+multi)",
             "uris": [
- "magnet:?xt=urn:btih:a3de74c2406079bb2ab50fb&dn=rutor.info_Dispatch+-+Digital+Deluxe+Edition+%5Bv+1.0.15103+%2B+DLC%5D+%282025%29+PC+%7C+Portable&tr=udp://opentor.net:6969&tr=http://retracker.local/announce"
              ],
             "fileSize": "11.4GB",
+            "uploadDate": "2025-10-30T21:22:00.000Z"
+    },
+    {
+            "title": "Elden Ring (+DLSS 3)",
+            "uris": [
+             ],
+            "fileSize": "58.4GB",
             "uploadDate": "2025-10-30T21:22:00.000Z"
     }
 
